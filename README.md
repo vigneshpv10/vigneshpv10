@@ -2,16 +2,28 @@
 
 # Hi 👋, I'm Vignesh P V
 
-### Computer Science (AI) Graduate | Aspiring AI/ML Engineer | Computer Vision & Generative AI
+### Computer Science (AI) Graduate | AI/ML | Computer Vision | Generative AI
 
-Passionate about building practical AI applications using Machine Learning, Computer Vision, and Large Language Models.
+Passionate about building AI-powered applications that solve real-world problems using Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+(AI)+Graduate;Aspiring+AI%2FML+Engineer;Computer+Vision+Developer;Learning+Generative+AI;Building+Real-World+AI+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+(AI)+Graduate;AI%2FML+Developer;Computer+Vision+Enthusiast;Generative+AI;Building+Real-World+AI+Applications"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vigneshpv10&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vignesh-pv-4094a5292">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:vigneshpv9080@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 </p>
 
 </div>
@@ -22,49 +34,55 @@ Passionate about building practical AI applications using Machine Learning, Comp
 
 🎓 Recent B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence)
 
-I'm passionate about applying AI to solve real-world problems. My interests include Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG). I enjoy building end-to-end AI applications and continuously expanding my technical skills.
+I enjoy building intelligent applications that solve real-world problems using Artificial Intelligence. My experience includes developing AI-powered Computer Vision systems, Large Language Model (LLM) applications, and Retrieval-Augmented Generation (RAG) solutions.
 
-## 🌱 Currently Learning
+I am passionate about continuously improving my skills by building practical projects and exploring modern AI technologies.
 
+📌 **Areas of Interest**
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - LangGraph
 - Model Context Protocol (MCP)
 - MLOps
-- LLM Application Development
-
-## 🎯 Looking For
-
-- AI/ML Engineer
-- Computer Vision Engineer
-- Generative AI Engineer
-- Machine Learning Internship / Graduate Roles
 
 📫 **Email:** vigneshpv9080@gmail.com
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
-### Programming
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-### AI & Machine Learning
+## AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask"/>
 </p>
 
-### Development Tools
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,typescript,vite"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,vite"/>
 </p>
 
-### Areas of Interest
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+## Technical Skills
 
 - Machine Learning
 - Deep Learning
@@ -74,14 +92,17 @@ I'm passionate about applying AI to solve real-world problems. My interests incl
 - YOLO
 - CNN
 - Transfer Learning
+- MediaPipe
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- MediaPipe
 - Scikit-learn
 - NumPy
 - Pandas
+- Matplotlib
+- Flask
 - REST APIs
+- Git & GitHub
 
 ---
 
@@ -89,42 +110,59 @@ I'm passionate about applying AI to solve real-world problems. My interests incl
 
 ## 👁️ Automated ID Card Enforcement System
 
-A Computer Vision application that detects ID card violations using YOLOv11 and face recognition.
+AI-powered surveillance system for detecting ID card violations using Computer Vision and Face Recognition.
 
-🔗 Repository  
+**Tech Stack**
+
+YOLOv11 • Python • OpenCV • Face Recognition
+
+📄 Research presented at **ICIMRBE 2025**
+
+🔗 Repository
+
 https://github.com/vigneshpv10/automated-id-card-enforcement-system
 
 ---
 
 ## 🤟 AI-Powered Sign Language to Malayalam Speech Translator
 
-An AI-based application that recognizes sign language gestures and converts them into Malayalam speech to improve doctor-patient communication.
+Developed an AI application that recognizes sign language gestures and converts them into Malayalam speech to enhance doctor-patient communication.
 
-🔗 Repository  
+**Tech Stack**
+
+Python • OpenCV • MediaPipe • Flask • Gemini API • Scikit-learn
+
+🔗 Repository
+
 https://github.com/vigneshpv10/AI-powered-Signlanguage-to-speech-translator-for-enhancing-doctor-patient-communication-in-malayalam
 
 ---
 
 ## 📚 Multi-Document AI Knowledge Assistant
 
-A Retrieval-Augmented Generation (RAG) application that answers questions from multiple uploaded documents using semantic search and LLMs.
+Built a Retrieval-Augmented Generation (RAG) application capable of answering questions from multiple uploaded documents using semantic search and LLMs.
 
-🔗 Repository  
+**Tech Stack**
+
+Python • LangChain • FAISS • Gemini API • Flask
+
+🔗 Repository
+
 https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 
 ---
 
 # 🏆 Achievements
 
-- 📄 Research Presenter – ICIMRBE 2025
-- 🎯 Coordinator – Brahma National Fest
-- ⚙️ Coordinator – Prayag Technical Fest
+- 📄 Research Presenter — ICIMRBE 2025
+- 🎯 Coordinator — Brahma National Fest
+- ⚙️ Coordinator — Prayag Technical Fest
 
 ---
 
 # 📜 Certifications
 
-- Deep Learning – NPTEL IIT Ropar
+- Deep Learning — NPTEL IIT Ropar
 - Applied Artificial Intelligence
 - Python Programming
 - Full Stack MERN Development
@@ -135,8 +173,11 @@ https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vigneshpv10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpv10&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -144,7 +185,9 @@ https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=vigneshpv10&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -152,7 +195,9 @@ https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpv10&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -175,6 +220,6 @@ https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 
 <div align="center">
 
-### ⭐ Always learning. Always building. Always improving.
+### ⭐ Learning through projects. Building AI that solves real-world problems.
 
 </div>
