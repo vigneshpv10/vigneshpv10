@@ -2,23 +2,16 @@
 
 # Hi 👋, I'm Vignesh P V
 
-### AI/ML Engineer | Computer Vision | Generative AI
+### Computer Science (AI) Graduate | Aspiring AI/ML Engineer | Computer Vision & Generative AI
 
-Passionate about building intelligent AI applications using Machine Learning, Computer Vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+Passionate about building practical AI applications using Machine Learning, Computer Vision, and Large Language Models.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Developer;Building+Production-Ready+AI+Applications;Generative+AI+Enthusiast" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+(AI)+Graduate;Aspiring+AI%2FML+Engineer;Computer+Vision+Developer;Learning+Generative+AI;Building+Real-World+AI+Projects"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=vigneshpv10&color=blue)
-
-<p>
-<a href="https://linkedin.com/in/vignesh-pv-4094a5292">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:vigneshpv9080@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vigneshpv10&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 </div>
@@ -27,62 +20,58 @@ Passionate about building intelligent AI applications using Machine Learning, Co
 
 # 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)
+🎓 Recent B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence)
 
-💻 Passionate about solving real-world problems using AI.
+I'm passionate about applying AI to solve real-world problems. My interests include Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG). I enjoy building end-to-end AI applications and continuously expanding my technical skills.
 
-📄 Research Presenter – ICIMRBE 2025
-
-🌱 Currently learning
+## 🌱 Currently Learning
 
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - LangGraph
 - Model Context Protocol (MCP)
 - MLOps
+- LLM Application Development
 
-💼 Interested Roles
+## 🎯 Looking For
 
 - AI/ML Engineer
 - Computer Vision Engineer
 - Generative AI Engineer
+- Machine Learning Internship / Graduate Roles
 
-📫 Email
-
-**vigneshpv9080@gmail.com**
-
-🌐 Portfolio
-
-Coming Soon...
+📫 **Email:** vigneshpv9080@gmail.com
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
-## 💻 Languages
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-## 🧠 AI / Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask"/>
 </p>
 
-## ⚙️ Tools
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,react,typescript,vite"/>
 </p>
 
-## 🚀 Core Skills
+### Areas of Interest
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Image Processing
+- OpenCV
+- YOLO
 - CNN
 - Transfer Learning
 - Large Language Models (LLMs)
@@ -92,53 +81,36 @@ Coming Soon...
 - Scikit-learn
 - NumPy
 - Pandas
-- Matplotlib
+- REST APIs
 
 ---
 
 # ⭐ Featured Projects
 
-## 🤟 AI-Powered Sign Language Recognition
+## 👁️ Automated ID Card Enforcement System
 
-Real-time AI system that converts sign language gestures into Malayalam speech using Computer Vision and Machine Learning.
+A Computer Vision application that detects ID card violations using YOLOv11 and face recognition.
 
-**Tech Stack**
-
-Python • OpenCV • MediaPipe • Scikit-learn • Flask • Gemini API
-
-🔗 Repository
-
-https://github.com/vigneshpv10/YOUR_REPO_NAME
+🔗 Repository  
+https://github.com/vigneshpv10/automated-id-card-enforcement-system
 
 ---
 
-## 👁️ Automated ID Card Enforcement System
+## 🤟 AI-Powered Sign Language to Malayalam Speech Translator
 
-AI-powered surveillance system that detects ID card violations using Computer Vision.
+An AI-based application that recognizes sign language gestures and converts them into Malayalam speech to improve doctor-patient communication.
 
-**Tech Stack**
-
-YOLOv11 • Face Recognition • Python • OpenCV
-
-📄 Presented at **ICIMRBE 2025**
-
-🔗 Repository
-
-https://github.com/vigneshpv10/automated-id-card-enforcement-system
+🔗 Repository  
+https://github.com/vigneshpv10/AI-powered-Signlanguage-to-speech-translator-for-enhancing-doctor-patient-communication-in-malayalam
 
 ---
 
 ## 📚 Multi-Document AI Knowledge Assistant
 
-Retrieval-Augmented Generation (RAG) system capable of answering questions from multiple uploaded documents using semantic search and LLMs.
+A Retrieval-Augmented Generation (RAG) application that answers questions from multiple uploaded documents using semantic search and LLMs.
 
-**Tech Stack**
-
-Python • LangChain • FAISS • Gemini API • Flask
-
-🔗 Repository
-
-https://github.com/vigneshpv10/YOUR_RAG_REPOSITORY
+🔗 Repository  
+https://github.com/vigneshpv10/Multi-Document-AI-Knowledge-Assistant
 
 ---
 
@@ -163,11 +135,8 @@ https://github.com/vigneshpv10/YOUR_RAG_REPOSITORY
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vigneshpv10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpv10&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -175,9 +144,7 @@ https://github.com/vigneshpv10/YOUR_RAG_REPOSITORY
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=vigneshpv10&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -185,26 +152,14 @@ https://github.com/vigneshpv10/YOUR_RAG_REPOSITORY
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpv10&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshpv10&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/vignesh-pv-4094a5292">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -220,6 +175,6 @@ https://github.com/vigneshpv10/YOUR_RAG_REPOSITORY
 
 <div align="center">
 
-### ⭐ Building practical AI systems that solve real-world problems through Computer Vision and Generative AI.
+### ⭐ Always learning. Always building. Always improving.
 
 </div>
