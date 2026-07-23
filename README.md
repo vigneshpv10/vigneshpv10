@@ -16,12 +16,14 @@ Passionate about building AI-powered applications that solve real-world problems
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vignesh-pv-4094a5292/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://linkedin.com/in/vignesh-pv-4094a5292">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:vigneshpv9080@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -197,12 +199,14 @@ Python • LangChain • FAISS • Gemini API • Flask
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vignesh-pv-4094a5292/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+
+<a href="https://linkedin.com/in/vignesh-pv-4094a5292">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:vigneshpv9080@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
